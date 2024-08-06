@@ -1,0 +1,6 @@
+module Pods_Dousio {
+  umbrella header "Pods-Dousio-umbrella.h"
+
+  export *
+  module * { export * }
+}

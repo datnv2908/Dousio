@@ -1,0 +1,6 @@
+module Pods_Dousio_DousioTests {
+  umbrella header "Pods-Dousio-DousioTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
